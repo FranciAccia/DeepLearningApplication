@@ -232,3 +232,7 @@ results/
 checkpoints/
 # Local notes for Claude Code (contain server details)
 CLAUDE.md
+
+# Private notes: experiment decision rules and oral-exam guides
+docs/decision-rules.md
+**/Guida-orale-*.md
